@@ -183,7 +183,7 @@ int udp()
 			logd("中止任务7\n");
 			system("cd /d D:\\Yuanchuan\\bat && stop-task.bat");
 		}
-		//const char * sendData = "一个来自服务端的UDP数据包.....\n";
+		//const char * sendData = "一个来自服务端的UDP数据包......\n";
 		//sendto(serSocket, sendData, strlen(sendData), 0, (sockaddr *)&remoteAddr, nAddrLen);
 
 	}
